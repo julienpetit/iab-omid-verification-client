@@ -1,0 +1,33 @@
+<VAST version="3.0">
+    <Ad>
+        <InLine>
+            <AdSystem/>
+            <AdTitle>
+                <![CDATA[ Ogury ]]>
+            </AdTitle>
+            <Description>
+                <![CDATA[ Ogury ]]>
+            </Description>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>
+                            <![CDATA[ 00:00:15 ]]>
+                        </Duration>
+                        <TrackingEvents/>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://www.ogury.com/]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile type="video/mp4" delivery="progressive" width="608" height="1080" bitrate="720">
+                                <![CDATA[ https://medias.presage.io/medias/videos/bb9964bd-9187-4867-83b2-7688e9de2dd3.mp4-transcoded/offline.mp4 ]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
